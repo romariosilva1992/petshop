@@ -7,7 +7,7 @@
 </div>
 
 <div>
-  <img src="petshop/img/projeto.png" width="200"/>
+  <img src="fig1.png" width="200"/>
 </div>
                                                   
 
