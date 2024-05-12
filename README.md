@@ -7,7 +7,7 @@
 </div>
 
 <div>
-  <img src="fig1.png" width="200"/>
+  <img src="fig1.png"/>
 </div>
                                                   
 
